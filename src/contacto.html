@@ -23,7 +23,7 @@
           <line x1="2" x2="22" y1="22" y2="22" />
         </svg>
       </button>
-  
+
       <img src="assets/logo.jpg" alt="Primeros auxilios, El Boticario">
       <nav>
         <a href="/">Inicio</a>
@@ -38,19 +38,23 @@
     <span>Whatsapp: 15 2288 1055</span>
     <span>botiquines@elboticario.com.ar</span>
   </section>
-  <main id="home">
-    <div class="banner">
-      <img src="assets/destacada.jpg" alt="Botiquines, gabinetes y kits">
-    </div>
+  <main id="contact">
     <section>
-      <h1>Primeros Auxilios</h1>
-      <p>
-        En la casa, el trabajo, la escuela, el automóvil y al hacer deportes es necesario contar con determinados elementos para poder ayudar y protegerse en caso de incidentes y lesiones y brindar primeros auxilios de ser necesario.
-      </p>
-      <p>
-        El botiquín debe ser ubicado en un lugar accesible, conocido por todos y hay que controlar el buen estado de los elementos periódicamente.
-      </p>
+      <h1>Contacto</h1>
+      <form action="formulario.php" method="POST">
+        <input type="text" name="nombre" id="nombre" placeholder="Nombre" required>
+        <input type="email" name="email" id="email" placeholder="E-mail" required>
+        <input type="text" name="telefono" id="telefono" placeholder="Teléfono">
+        <input type="text" id="asunto" name="asunto" placeholder="Asunto" required>
+        <textarea name="mensaje" id="mensaje" placeholder="Aquí su mensaje..."></textarea>
+        <input type="hidden" id="g-recaptcha-response" name="g-recaptcha-response">
+        <input type="submit" value="Enviar">
+      </form>
     </section>
+    <iframe
+      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3283.8294534707784!2d-58.515901570756995!3d-34.608473860453316!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcb7d3d1df81fb%3A0xbef40ffa2ce4af41!2sJos%C3%A9%20Pedro%20Varela%204509%2C%20C1417%20EYS%2C%20Buenos%20Aires!5e0!3m2!1ses-419!2sar!4v1602630014120!5m2!1ses-419!2sar"
+      width="100%" height="100%" class="map" frameborder="0" allowfullscreen tabindex="0">
+    </iframe>
   </main>
   <footer>
     <section>
@@ -85,8 +89,7 @@
 
     <section>
       <h3>Redes</h3>
-      <a href="https://www.facebook.com/Botiquines-Primeros-Auxilios-El-Boticario-1468520870055662/"
-        target="_blank"
+      <a href="https://www.facebook.com/Botiquines-Primeros-Auxilios-El-Boticario-1468520870055662/" target="_blank"
         class="external">Botiquines Primeros Auxilios</a>
     </section>
     <section class="copyright">

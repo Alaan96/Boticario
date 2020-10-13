@@ -1,0 +1,9 @@
+main#home {
+  width: 100%;
+  & .banner {
+    width: 100%;
+    & img {
+      width: 100%;
+    }
+  }
+}

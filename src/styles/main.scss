@@ -1,0 +1,13 @@
+@import 'reset';
+@import 'fonts';
+@import 'breakpoints';
+@import 'theme';
+
+// Components
+@import 'components/header';
+@import 'components/footer';
+@import 'components/home';
+@import 'components/about';
+@import 'components/products';
+@import 'components/contact';
+@import 'components/send-form';

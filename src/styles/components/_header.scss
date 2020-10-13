@@ -1,0 +1,108 @@
+header {
+  width: 100%;
+  max-width: 100%;
+  display: flex;
+  justify-content: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 50;
+  background: var(--primary);
+  box-shadow: 0 0 .5rem rgba(0, 0, 0, 0.5);
+  & .container {
+    width: 100%;
+    max-width: $desktop;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: .5rem 0;
+  }
+}
+
+header button {
+  $btn-size: 2.5rem;
+  width: $btn-size;
+  height: $btn-size;
+  position: absolute;
+  left: 1rem;
+  top: 2rem;
+  z-index: 100;
+  background: transparent;
+  border: none;
+  border-radius: .5rem;
+  box-shadow: 0 0 .5rem rgba(0, 0, 0, 0.25);
+  cursor: pointer;
+
+  & svg {
+    width: 100%;
+    & line {
+      stroke: var(--secondary);
+      stroke-width: 4;
+      stroke-linecap: round;
+    }
+  }
+}
+
+img {
+  width: 6rem;
+  flex: 1 0 100%;
+}
+
+nav {
+  width: 100%;
+  display: none;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: .5rem;
+  text-align: center;
+  font-size: 1.25rem;
+  font-family: $SSPro;
+  background: var(--primary);
+  & a {
+    flex: 1 1 8rem;
+    padding: .5rem 1rem;
+  }
+}
+
+.open {
+  display: flex;
+}
+
+.selected {
+  color: var(--accent);
+}
+
+section#contact-data {
+  width: 100%;
+  margin: 7.25rem 0 .5rem 0;
+  padding: 1rem;
+  display: flex;
+  text-align: right;
+  flex-direction: column;
+  gap: .25rem;
+  background: var(--tertiary);
+  color: var(--accent-dark);
+}
+
+
+@media screen and (min-width: $tablet) {
+  button {
+    display: none;
+  }
+
+  nav {
+    width: 100%;
+    height: 2em;
+    display: flex;
+    justify-content: space-evenly;
+  }
+
+  section#contact-data {
+    margin-top: 10.25rem;
+    flex-direction: row;
+    justify-content: space-around;
+    text-align: center;
+  }
+}
