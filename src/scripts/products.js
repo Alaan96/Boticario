@@ -66,6 +66,49 @@ if (gallery) {
         1 Venda tipo Cambric de 10  cms x 3 metros`
     },
     {
+      name: 'Botiquín Home Office mediano',
+      folder: 'home-office-mediano',
+      images: ['home-office-mediano-cerrado.jpg', 'home-office-mediano-abierto.jpg'],
+      descrption: `
+        Estuche plástico semitransparente, tapa rebatible con trabas.
+        Medidas: 14 cm de largo x 11 cm de ancho x 4cm de alto.
+        Contenido: 29 unidades / 13 elementos.`,
+      content: `
+        1 Agua oxigenada 10 vol x 30 cc
+        2 Alcohol en gel (Pouch)
+        3 Algodón en discos
+        10 Apósitos protectores adhesivos
+        2 Sobres de gasa estéril
+        2 Guantes descartables de polietileno
+        2 Guantes de látex
+        1 Pinza para extracciones
+        1 Tela adhesiva hipoalergénica de 1,25 cm x 9 mts
+        1 Venda t/Cambric de 5 cm x 3 mts
+        2 Jabón comprimidos
+        1 Barbijo descartable
+        1 Tijera`
+    },
+    {
+      name: 'Botiquín Home Office chico',
+      folder: 'home-office-chico',
+      images: ['home-office-chico-cerrado.jpg', 'home-office-chico-abierto.jpg'],
+      descrption: `
+        Estuche plástico semitransparente, tapa rebatible con trabas.
+        Medidas: 14 cm de largo x 11 cm de ancho x 4 cm de alto.
+        Contenido: 24 unidades / 10 elementos.`,
+      content: `
+        1 Agua Oxigenada 10 vol x 30 cc
+        2 Alcohol en gel (Pouch)
+        2 Algodón en disco
+        10 Apósitos protectores adhesivos
+        2 Sobres de gasa estéril
+        2 Guantes descartables de polietileno
+        1 Pinza para extracciones
+        1 Tela adhesiva de 1,25 cm x 1 metro
+        1 Venda t/ Cambric de 5 cm x 3 metros
+        2 Jabón comprimido`
+    },
+    {
       name: 'Kit higiene y prevención',
       folder: 'kit-preventivo',
       images: ['kit-preventivo.jpg'],
@@ -598,6 +641,122 @@ if (gallery) {
         2 Venda tipo Cambric de 5 cms x 3 metros
         2 Venda tipo Cambric de 7 cms x 3 metros
         1 Venda tipo Cambric de 10 cms x 3 metros`
+    },
+    {
+      name: 'Botiquín Número 18',
+      folder: 'botiquin18',
+      images: ['botiquin18-cerrado.jpg', 'botiquin18-abierto.jpg'],
+      descrption: `
+        Gabinete de acero inoxidable, espejo, estantes, traba con cierre.
+        Medidas: 28 cm de alto x 22 cm de ancho x 10 cm de alto.
+        Contenido: 56 unidades / 18 elementos.`,
+      content: `
+        1 Acido Pícrico de 30 cc
+        1 Agua Oxigenada 10 vol x 250 cc
+        1 Alcohol 96° de 250 cc
+        1 Algodón hidrófilo de 75 gr
+        20 Apósitos protectores adhesivos
+        1 Bicarbonato de Sodio de 100 gr
+        1 Copita lava ojos
+        5 Sobres de gasa estéril 10cm x 10 cm
+        2 Sobres de gasa estéril 20 cm x 20 cm
+        6 Guantes descartables de polietileno
+        1 Jeringa descartable de 5 cc con aguja
+        1 Manual para primeros auxilios
+        1 Pinza para extracciones
+        10 tablillas de madera
+        1 cinta adhesiva hipoalergénica de 2,50 cm x 9 mts
+        1 Tubuladura de látex
+        1 Venda t/cambric de 5 cm x 3 mts
+        1 Venda t/cambric de 10 cm x 3 mts`
+    },
+    {
+      name: 'Botiquín Número 19',
+      folder: 'botiquin19',
+      images: ['botiquin19-cerrado.jpg', 'botiquin19-abierto.jpg'],
+      descrption: `
+        Caja plástica blanca, con trabas, portacandado, manija y bandeja interna.
+        Medidas: 50,5 cm de largo x 24,5 cm de ancho x 24,2 cm de alto.
+        Contenido: 280 unidades / 33 elementos.`,
+      content: `
+        1 Agua de Alibour de 250 cc
+        2 Agua oxigenada 10 vol x 250 cc
+        2 Alcohol 96° de 250 cc
+        1 Alcohol boricado de 60 gr
+        3 Algodón hidrófilo de 75 gr
+        100 Apósitos protectores adhesivos
+        1 Bicarbonato de Sodio de 250 cc
+        1 Bolsa para residuos patogénicos
+        1 Copita lava ojos
+        1 Cepillo plástico para uñas
+        1 Espejo mediano para colgar
+        1 Esponja rectangular de poliuretano
+        20 Sobres de gasa estéril de 10 cm x 10 cm
+        2 Sobres de gasa estéril de 20 cm x 20 cm
+        10 Guantes de látex
+        100 Hisopos de algodón
+        2 Jeringa descartables de 5 cc con aguja
+        1 Jeringa descartable de 1 cc con aguja
+        1 Manual para primeros auxilios
+        3 Paños jabonosos
+        2 Parches oculares para adultos
+        1 Pinza para extracciones
+        1 Acido Pícrico de 100 cc
+        1 Solución fisiológica esterilizada de 100 cc
+        10 Tablillas de madera
+        2 Cinta adhesiva hipoalergénica de 2,5 cm x 9 mts
+        1 Cinta adhesiva hipoalergénica de 5 cm x  9 mts
+        1 Tijera
+        1 Solución Timerosal de 100 cc
+        1 Tubuladura de látex
+        3 Vendas t/cambric de 5 cm x 3 mts
+        2 Vendas t/cambric de 7 cm x 3 mts
+        1 Venda t/cambric de 10 cm x 3 mts`
+    },
+    {
+      name: 'Botiquín Número 20',
+      folder: 'botiquin19',
+      images: ['botiquin20-cerrado.jpg', 'botiquin20-abierto.jpg'],
+      descrption: `
+        Es un gabinete de madera tipo fibrofácil.
+        Con estantes y divisiones internas. Amurable. Cerradura con llave.
+        Medidas: 70 cm de alto x 50 cm de ancho x 15 cm de profundidad.`,
+      content: `
+        1 Agua de Alibour x 250 cc
+        2 Agua Oxigenada 10 vol x 500 cc
+        1 Alcohol Boricado x 60 cc
+        3 Alcohol puro 96° x 500 cc
+        2 Algodón hidrófilo x 70 grs
+        100 Apósitos adhesivos protectores
+        1 Bicarbonato de Sodio x 250 grs
+        1 Bolsa para residuos patogénicos
+        1 Cinta adhesiva hipoalergénica de 2,50 cm x 9 metros
+        1 Cinta adhesiva hipoalergénica de 5,00 cm x 9 metros
+        1 Cepillo plástico para uñas
+        1 Copita plástica lavaojos
+        1 Espejo de 20 cm x 15 cms
+        1 Esponja de poliuretano rectangular
+        20 Gasa estéril en sobres 10 cm x 10 cm
+        2 Gasa estéril en sobres 20 cm x 20 cm
+        10 Guantes de látex para examinación
+        100 Guantes de polietileno descartables
+        100 Hisopos dobles con algodón
+        1 Jabón de glicerina neutro de 120 grs
+        2 Jeringas descartables de 5 cc con aguja
+        1 Jeringa descartable de 1 cc con aguja
+        1 Manual para primeros auxilios
+        2 Paños jabonosos
+        3 Parches oculares
+        1 Pinza para extracciones
+        1 Solución de Timerosal x 60 cc  antiséptico
+        1 Solución fisiológica estéril x 100 cc
+        1 Solución de Acido Pícrico x 60 cc para quemaduras
+        10 Tablillas de madera para inmovilizar
+        1 Tijera plegable de metal
+        1 Tubuladura de látex
+        3 Vendas de algodón de 5 cms x 3 metros
+        2 Vendas de algodón de 7 cms x 3 metros
+        1 Venda de algodón de 10 cms x 3 metros`
     },
     {
       name: 'Botiquín Número 22',

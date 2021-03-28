@@ -1,8 +1,8 @@
-import logo from './assets/logo.jpg'
-import favicon from './assets/favicon.ico'
-import destacada from './assets/destacada.jpg'
-import empresa from './assets/empresa.png'
-import texture from './assets/texture.png'
+import './assets/logo.jpg'
+import './assets/favicon.ico'
+import './assets/destacada.jpg'
+import './assets/empresa.png'
+import './assets/texture.png'
 
 // Products
 import './assets/mini/mini-cerrado.jpg'
@@ -13,6 +13,12 @@ import './assets/econo/econo-abierto.jpg'
 
 import './assets/home-office/home-office-cerrado.jpg'
 import './assets/home-office/home-office-abierto.jpg'
+
+import './assets/home-office-mediano/home-office-mediano-cerrado.jpg'
+import './assets/home-office-mediano/home-office-mediano-abierto.jpg'
+
+import './assets/home-office-chico/home-office-chico-cerrado.jpg'
+import './assets/home-office-chico/home-office-chico-abierto.jpg'
 
 import './assets/cartuchera/cartuchera-cerrada.jpg'
 import './assets/cartuchera/cartuchera-abierta.jpg'
@@ -74,6 +80,15 @@ import './assets/botiquin16/botiquin16-abierto.jpg'
 
 import './assets/botiquin17/botiquin17-cerrado.jpg'
 import './assets/botiquin17/botiquin17-abierto.jpg'
+
+import './assets/botiquin18/botiquin18-cerrado.jpg'
+import './assets/botiquin18/botiquin18-abierto.jpg'
+
+import './assets/botiquin19/botiquin19-cerrado.jpg'
+import './assets/botiquin19/botiquin19-abierto.jpg'
+
+import './assets/botiquin20/botiquin20-cerrado.jpg'
+import './assets/botiquin20/botiquin20-abierto.jpg'
 
 import './assets/botiquin22/botiquin22-cerrado.jpg'
 import './assets/botiquin22/botiquin22-abierto.jpg'
