@@ -13,10 +13,10 @@ if (gallery) {
         Contenido:  8 unidades / 6 elementos.`,
       content: `
         1 Alcohol en Gel (Pouch)
-        1 Algodón en disco
+        1 Algodón hidrófilo
         2 Apósitos protectores
         1 Jabón comprimido
-        2 Gasa estéril en sobres de 10 cm x 10 cm
+        1 sobre de Gasa estéril en sobres de 10 cm x 10 cm
         2 Guantes descartables de polietileno`
     },
     {
@@ -26,7 +26,7 @@ if (gallery) {
       descrption: `
         Tela de cordura con cierre.
         Medidas: 16 cm x 15 cm x5 cm alto.
-        Contenido: 31 unidades / 15 elementos.`,
+        Contenido: 32 unidades / 15 elementos.`,
       content: `
         1 Agua Oxigenada 10 vol x 30 cc
         4 Alcohol en Gel (Pouch)
@@ -42,7 +42,7 @@ if (gallery) {
         1 Solución Timerosal x 30 cc
         1 Venda tipo Cambric de 5 cms x 3 metros
         2 Jabón comprimido
-        2 Algodón en disco`
+        2 Algodón hidrófilo`
     },
     {
       name: 'Botiquín Home Office',
@@ -76,13 +76,13 @@ if (gallery) {
       content: `
         1 Agua oxigenada 10 vol x 30 cc
         2 Alcohol en gel (Pouch)
-        3 Algodón en discos
+        3 Algodón hidrófilo
         10 Apósitos protectores adhesivos
         2 Sobres de gasa estéril
         2 Guantes descartables de polietileno
         2 Guantes de látex
         1 Pinza para extracciones
-        1 Tela adhesiva hipoalergénica de 1,25 cm x 9 mts
+        1 cinta adhesiva hipoalergénica de 1,25 cm x 9 mts
         1 Venda t/Cambric de 5 cm x 3 mts
         2 Jabón comprimidos
         1 Barbijo descartable
@@ -99,12 +99,12 @@ if (gallery) {
       content: `
         1 Agua Oxigenada 10 vol x 30 cc
         2 Alcohol en gel (Pouch)
-        2 Algodón en disco
+        2 Algodón hidrófilo
         10 Apósitos protectores adhesivos
         2 Sobres de gasa estéril
         2 Guantes descartables de polietileno
         1 Pinza para extracciones
-        1 Tela adhesiva de 1,25 cm x 1 metro
+        1 cinta adhesiva hipoalergénica de 1,25 cm x 9 mts
         1 Venda t/ Cambric de 5 cm x 3 metros
         2 Jabón comprimido`
     },
@@ -129,8 +129,8 @@ if (gallery) {
       images: ['nautico-cerrado.jpg', 'nautico-abierto.jpg'],
       descrption: `
         Estuche plástico semitransparente.
-        Contiene: 25 unidades en 10 elementos.
-        Medidas: 18 cm de largo x 12 cm de ancho x 4,3 cm alto.`,
+        Medidas: 18 cm de largo x 12 cm de ancho x 4,3 cm alto.
+        Contenido: 24 unidades / 9 elementos.`,
       content: `
         1 Agua Oxigenada 10 vol x 30 cc
         4 Alcohol en Gel (Pouch)
@@ -139,7 +139,6 @@ if (gallery) {
         8 Jabón comprimido
         1 Cinta adhesiva hipoalergénica de 1,25 cms x 9 metros 
         1 Tijera de metal plegable
-        1 Termómetro digital
         1 Venda tipo Cambric de 5 cms x 3 metros
         1 Venda tipo Cambric de 10  cms x 3 metros`
     },
@@ -149,7 +148,7 @@ if (gallery) {
       images: ['zipper.jpg'],
       descrption: `
         Bolsita hermética con cierre zipper.
-        Medidas: 10 cm de largo x 12 cm de ancho.
+        Medidas: 19 cm de largo x 12 cm de ancho.
         Contenido: 13 unidades / 8 elementos.`,
       content: `
         2 Alcohol en Gel (Pouch)
@@ -158,7 +157,7 @@ if (gallery) {
         1 Gasa estéril en sobre de 10 cm x 10 cm
         2 Guantes descartables de polietileno
         1 Tablilla de madera
-        1 Cinta adhesiva  1,25 cms 
+        1 Tela adhesiva de 1,25 cm x 1 mt
         1 Jabón comprimido`
     },
     {
@@ -171,11 +170,11 @@ if (gallery) {
         Contenido: 15 unidades / 8 elementos.`,
       content: `
         2 Alcohol en Gel (Pouch)
-        2 Algodón en disco
+        2 Algodón hidrófilo
         5 Apósitos protectores
         1 Gasa estéril en sobre de 10 cm x 10 cm
         2 Guantes descartables de polietileno
-        1 Cinta adhesiva hipoalergénica de 1,25 cms x 9 metros 
+        1 Tela adhesiva de 1,25 cm x 1 mt
         1 Venda tipo Cambric de 5 cms x 3 metros
         1 Jabón comprimido`
     },
@@ -189,11 +188,11 @@ if (gallery) {
         Contenido: 15 unidades / 9 elementos.`,
       content: `
         4 Alcohol en Gel (Pouch)
-        1 Algodón en disco
+        1 Algodón hidrófilo
         3 Apósitos protectores
         1 Gasa estéril en sobre de 10 cm x 10 cm
         2 Guantes descartables de polietileno
-        1 Cinta adhesiva de 1,25 cms 
+        1 Cinta adhesiva hipoalergénica de 1,25 cm x 9 mts
         1 Venda tipo Cambric de 5 cms x 3 metros
         1 Jabón comprimido
         1 Pinza para extracciones`
@@ -205,11 +204,11 @@ if (gallery) {
       descrption: `
         Estuche plástico transparente. Tapa rebatible con trabas.
         Medidas: 18 cm de largo x 12 cm de ancho x 4,3 cm alto.
-        Contenido: 34 unidades / 10 elementos.`,
+        Contenido: 33 unidades / 10 elementos.`,
       content: `
         1 Agua Oxigenada 10 vol x 30 cc
         2 Alcohol en Gel (Pouch)
-        1 Algodón en disco
+        1 Algodón hidrófilo
         20 Apósitos Protectores
         2 Gasa estéril en sobres de 10 cm x 10 cm
         2 Guantes descartables de polietileno
@@ -229,7 +228,7 @@ if (gallery) {
       content: `
         1 Agua Oxigenada 10 vol x 30 cc
         3 Alcohol en Gel (Pouch)
-        2 Algodón en disco
+        2 Algodón hidrófilo
         20 Apósitos Protectores
         2 Gasa estéril en sobres de 10 cm x 10 cm
         2 Guantes de látex
@@ -298,7 +297,7 @@ if (gallery) {
       content: `
         1 Agua Oxigenada 10 vol x 30 cc
         2 Alcohol en Gel (Pouch)
-        2 Algodón en disco
+        2 Algodón hidrófilo
         20 Apósitos Protectores
         2 Gasa estéril en sobres de 10 cm x 10 cm
         2 Guantes de látex
@@ -341,7 +340,7 @@ if (gallery) {
       descrption: `
         Caja plástica blanca.
         Medidas: 33 cm de largo x 20 cm de ancho x 15 cm de alto.
-        Contenido: 49 unidades / 16 elementos.`,
+        Contenido: 48 unidades / 16 elementos.`,
       content: `
         1 Agua Oxigenada 10 vol x 100 cc
         1 Alcohol puro de 250 cc
@@ -366,7 +365,7 @@ if (gallery) {
       descrption: `
         Gabinete de chapa, pintado con epoxi blanco. Estantes. Cerradura portacandado.
         Medidas: 25 cm de largo x 17 cm de ancho x 10 cm de alto.
-        Contenido: 36 unidades / 19 elementos.`,
+        Contenido: 37 unidades / 20 elementos.`,
       content: `
         1 Agua Oxigenada 10 vol x 100 cc
         1 Acido Pícrico de 30 cc
@@ -395,7 +394,8 @@ if (gallery) {
       images: ['botiquin10-cerrado.jpg', 'botiquin10-abierto.jpg'],
       descrption: `
         Caja plástica blanca, con trabas, portacandado. Manija. 
-        Medidas: 43 cm de largo x 22 cm de ancho x 21 cm de alto.`,
+        Medidas: 43 cm de largo x 22 cm de ancho x 21 cm de alto.
+        Contenido: 86 unidades / 21 elementos.`,
       content: `
         1 Acido Pícrico de 30 cc
         1 Agua Oxigenada 10 vol x 100 cc
@@ -426,11 +426,11 @@ if (gallery) {
       descrption: `
         Gabinete de PVC blanco, estantes, espejo, cierre portacandado.
         Medidas: 37 cm de alto x 26 cm de ancho x 8 cm de profundidad.
-        contenido: 58 unidades / 19 elementos.`,
+        Contenido: 58 unidades / 19 elementos.`,
       content: `
         1 Agua Oxigenada 10 vol x 100 cc
         1 Alcohol puro de 250 cc
-        1 Algodón hidrófilo de 70 grs
+        1 Algodón hidrófilo de 75 gr
         20 Apósitos Protectores
         2 Barbijos
         1 Bicarbonato de Sodio de 100 grs
@@ -455,11 +455,11 @@ if (gallery) {
       descrption: `
         Gabinete de chapa pintado con epoxi blanco. Estantes. Espejo. Manija. Cierre portacandado.
         Medidas: 28 cm de alto x 22,5 de ancho x 10 cm de profundidad.
-        Contenido: 57 unidades / 19 elementos.`,
+        Contenido: 58 unidades / 19 elementos.`,
       content: `
         1 Agua Oxigenada 10 vol x 100 cc
         1 Alcohol puro x 250 cc
-        1 Algodón hidrófilo x 70 grs
+        1 Algodón hidrófilo de 75 gr
         20 Apósitos Protectores
         2 Barbijos
         1 Bicarbonato de Sodio x 100 grs
@@ -489,7 +489,7 @@ if (gallery) {
         1 Agua Oxigenada 10 vol x 100 cc
         10 Alcohol en Gel (Pouch)
         1 Alcohol puro de 250 cc
-        1 Algodón hidrófilo de 70 grs
+        1 Algodón hidrófilo de 75 gr
         20 Apósitos Protectores
         1 Bicarbonato de Sodio de 100 grs
         1 Copita lava-ojos
@@ -512,12 +512,12 @@ if (gallery) {
       descrption: `
         Gabinete de chapa, pintado con epoxi blanco. Espejo. Estantes. Manija, Cierre portacandado.
         Medidas: 35 cm de alto x 27 cm de anco x 12 cm de profundidad.
-        Contenido: 100 unidades / 26 elementos.`,
+        Contenido: 79 unidades / 28 elementos.`,
       content: `
         1 Acido Pícrico de 30 cc
         1 Agua Oxigenada 10 vol x 250 cc
         1 Alcohol puro de 500 cc
-        1 Algodón hidrófilo de 70 grs
+        1 Algodón hidrófilo de 75 gr
         20 Apósitos Protectores
         1 Bicarbonato de Sodio de 250 grs
         2 Barbijos
@@ -550,12 +550,12 @@ if (gallery) {
       descrption: `
         Gabinete de fibrofácil con estantes y espejo. Cerradura con llave.
         Medidas:  36 cm de alto x 27 cm de ancho x 9,7 cm de profundidad.
-        Contenido: 100 unidades / 23 elementos.`,
+        Contenido: 101 unidades / 23 elementos.`,
       content: `
         1 Acido Pícrico de 30 cc
         2 Agua Oxigenada 10 vol x 250 cc
         1 Alcohol puro de 500 cc
-        1 Algodón hidrófilo de 70 grs
+        1 Algodón hidrófilo de 75 grs
         40 Apósitos Protectores
         1 Bicarbonato de Sodio de 250 grs
         1 Copita lava-ojos
@@ -583,12 +583,12 @@ if (gallery) {
       descrption: `
         Gabinete plástico alto impacto blanco brillante.
         Medidas: 49 cm de alto x 31 cm de ancho x 10 cm de profundidad.
-        Contenido: 94 unidades / 22 elementos.`,
+        Contenido: 95 unidades / 22 elementos.`,
       content: `
         1 Acido Pícrico de 30 cc
         1 Agua Oxigenada 10 vol x 250 cc
         1 Alcohol puro de 500 cc
-        1 Algodón hidrófilo de 70 grs
+        1 Algodón hidrófilo de 75 grs
         40 Apósitos Protectores
         1 Bicarbonato de Sodio de 250 grs
         1 Copita lava-ojos
@@ -615,12 +615,12 @@ if (gallery) {
       descrption: `
         Gabinete de fibrofácil. Cerradura con llave. Estantes y espejo.
         Medida: 50 cm de alto x 30 cm de ancho x 11 cm de profundidad.
-        Contenido: 114 unidades / 24 elementos.`,
+        Contenido: 115 unidades / 24 elementos.`,
       content: `
         1 Acido Pícrico de 30 cc
         2 Agua Oxigenada 10 vol x 250 cc
         1 Alcohol puro de 500 cc
-        1 Algodón hidrófilo de 70 grs
+        1 Algodón hidrófilo de 75 grs
         40 Apósitos Protectores
         1 Bicarbonato de Sodio de 250 grs
         1 Copita lava-ojos
@@ -715,7 +715,7 @@ if (gallery) {
     },
     {
       name: 'Botiquín Número 20',
-      folder: 'botiquin19',
+      folder: 'botiquin20',
       images: ['botiquin20-cerrado.jpg', 'botiquin20-abierto.jpg'],
       descrption: `
         Es un gabinete de madera tipo fibrofácil.
@@ -765,7 +765,7 @@ if (gallery) {
       descrption: `
         Gabinete de chapa pintado con epoxi blanco. Espejo. Manija. Estantes. Cierre portacandado.
         Medidas: 50 cm de alto x 28 cm de ancho x 12 cm de profundidad.
-        Contenido: 192 unidades / 27 eleementos.`,
+        Contenido: 192 unidades / 26 elementos.`,
       content: `
         1 Acido Picrico de 30 cc
         2 Agua Oxigenada 10 vol x 500 cc
@@ -787,7 +787,6 @@ if (gallery) {
         1 Manual para primeros auxilios
         1 Paño Jabonoso
         1 Pinza para extracciones
-        1 Sulfatiazol polvo cicatrizante de 3 grs
         1 Tijera metálica
         1 Solución TImerosal x 100 cc
         1 Tubuladura de látex
@@ -821,12 +820,61 @@ if (gallery) {
         1 venda tipo cambric x 5 cm de ancho
         1 venda tipo cambric x 7 cm de ancho`
     },
+    {
+      name: 'KIT para Reposición chico',
+      folder: 'kit-reposicion-chico',
+      images: ['kit-reposicion-chico-cerrado.jpg', 'kit-reposicion-chico-abierto.jpg'],
+      descrption: `
+        Para reponer productos de botiquines Nros 5 / 8 / 9 / 10 / 11 / 12 / 13.
+        Medida de la caja: 20 cm x 15 cm x 15 cm.
+        Contenido: 44 unidades / 11 elementos.`,
+      content: `
+        1 Agua oxigenada 10 vol x 100 cc
+        1 Alcohol puro x 250 cc
+        1 Algodón hidrófilo de 75 gr
+        20 Apósitos protectores adhessivos
+        1 Bicarbonato de sodio x 100 gr
+        10 Sobres de gas estéril de 10 cm x 10 cm
+        6 Guantes descartables de polietileno
+        1 Jeringa descartable de 5 cc con aguja
+        1 Cinta adhesiva hipoalergénica de 2,5 cm x 9 mts
+        1 Venda t/cambric de 5 cm x 3 mt
+        1 Venda t/cambric de 10 cm x 3 mt`
+    },
+    {
+      name: 'KIT para Reposición mediano',
+      folder: 'kit-reposicion-mediano',
+      images: ['kit-reposicion-mediano-cerrado.jpg', 'kit-reposicion-mediano-abierto.jpg'],
+      descrption: `
+        Para reponer productos de botiquines Números 14 / 15 / 16 / 17 / 18 / 22.
+        Medida de la caja: 20 cm x 15 cm x 15 cm.
+        Contenido: 77 unidades / 18 elementos.`,
+      content: `
+        1 Acido Pícrico de 30 cc
+        1 Agua oxigenada 10 vol x 250 cc
+        1 Alcohol puro x 250 cc
+        1 Algodón hidrófilo de 75 gr
+        40 apósitos protectores adhesivos
+        2 Barbijos descartables
+        1 Bicarbonato de sodio x 250 gr
+        1 Bolsa para residuos patogénicos
+        10 Sobres de gas estéril de 10 cm x 10 cm
+        10 Guantes descartables de polietileno
+        1 Jeringa descartable de 5 cc con aguja
+        1 paño jabonoso
+        1 Cinta adhesiva hipoalergénica de 1,25 cm x 9 mt
+        1 Cinta adhesiva hipoalergénica de 2,5 cm x 9 mt
+        1 Solución Timerosal x 30 cc
+        2 Vasitos plásticos
+        1 Venda t/ cambric de 5 cm x 3 mts
+        1 Venda t/cambric de 10 cm x 3 mt`
+    },
   ]
 
   let productElements = []
 
   const generateProducts = () => {
-    products.forEach( product => {
+    products.forEach(product => {
       let images
       if (product.images > 1) {
         images = `
@@ -839,8 +887,8 @@ if (gallery) {
         `
       }
 
-      let template = 
-      `
+      let template =
+        `
         <article class="product" id="${product.folder}">
           <div class="images">
             <img src="assets/${product.images[0]}" alt="${product.images[0].replaceAll('-', ' ')}">
@@ -877,7 +925,6 @@ if (gallery) {
 
   gallery.addEventListener('click', event => {
     const target = event.target
-    console.dir(target)
     if (target.tagName === 'BUTTON') {
       const content = target.nextElementSibling
       content.classList.toggle('hide')
@@ -887,5 +934,5 @@ if (gallery) {
       if (target.nextElementSibling.tagName === 'IMG') target.classList.toggle('opacity')
     }
   })
-  
+
 }

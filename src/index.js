@@ -34,7 +34,7 @@ import './assets/botiquin1/botiquin1-cerrado.jpg'
 import './assets/botiquin1/botiquin1-abierto.jpg'
 
 import './assets/botiquin2/botiquin2-cerrado.jpg'
-import './assets/botiquin2/botiquin2-cerrado.jpg'
+import './assets/botiquin2/botiquin2-abierto.jpg'
 
 import './assets/botiquin3/botiquin3-cerrado.jpg'
 import './assets/botiquin3/botiquin3-abierto.jpg'
@@ -96,6 +96,11 @@ import './assets/botiquin22/botiquin22-abierto.jpg'
 import './assets/botiquin27/botiquin27-cerrado.jpg'
 import './assets/botiquin27/botiquin27-abierto.jpg'
 
+import './assets/kit-reposicion-chico/kit-reposicion-chico-cerrado.jpg'
+import './assets/kit-reposicion-chico/kit-reposicion-chico-abierto.jpg'
+
+import './assets/kit-reposicion-mediano/kit-reposicion-mediano-cerrado.jpg'
+import './assets/kit-reposicion-mediano/kit-reposicion-mediano-abierto.jpg'
 
 // import './styles/main.scss'
 
