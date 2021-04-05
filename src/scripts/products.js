@@ -483,7 +483,7 @@ if (gallery) {
       images: ['botiquin13-cerrado.jpg', 'botiquin13-abierto.jpg'],
       descrption: `
         Gabinete de fibrofácil, con espejo. Estantes.
-        Medidas: 28 cm de alto x 23 cm de ancho x 10 cm de profundidad.
+        Medidas: 28 cm de alto x 22 cm de ancho x 10 cm de profundidad.
         Contenido: 64 unidades / 18 elementos`,
       content: `
         1 Agua Oxigenada 10 vol x 100 cc
@@ -868,6 +868,18 @@ if (gallery) {
         2 Vasitos plásticos
         1 Venda t/ cambric de 5 cm x 3 mts
         1 Venda t/cambric de 10 cm x 3 mt`
+    },
+    {
+      name: 'Bolso para emergencia',
+      folder: 'bolso-emergencia',
+      images: ['bolso-emergencia-cerrado.jpg', 'bolso-emergencia-abierto.jpg'],
+      descrption: `
+        2  bolsillos externos
+        11 bolsillos internos
+        4 bolsillos tipo red
+        2 bolsillos laterales
+        Medida: 62 cm x 30 cm x 24 cm de alto`,
+      content: ``
     },
   ]
 
