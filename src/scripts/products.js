@@ -167,7 +167,7 @@ if (gallery) {
       descrption: `
         Estuche plástico rígido transparente. Tapa rebatible con trabas.
         Medidas:  10,5 cm de largo x 8 cm de ancho x 3,5 cm alto.
-        Contenido: 15 unidades / 8 elementos.`,
+        Contenido: 14 unidades / 7 elementos.`,
       content: `
         2 Alcohol en Gel (Pouch)
         2 Algodón hidrófilo
@@ -175,7 +175,6 @@ if (gallery) {
         1 Gasa estéril en sobre de 10 cm x 10 cm
         2 Guantes descartables de polietileno
         1 Tela adhesiva de 1,25 cm x 1 mt
-        1 Venda tipo Cambric de 5 cms x 3 metros
         1 Jabón comprimido`
     },
     {
