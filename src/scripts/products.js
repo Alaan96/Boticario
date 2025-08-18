@@ -1,34 +1,33 @@
 const gallery = document.getElementById('gallery') || null
 
 if (gallery) {
-
   const products = [
     {
       name: 'Mini',
       folder: 'mini',
       images: ['mini-cerrado.jpg', 'mini-abierto.jpg'],
       descrption: `
-        Estuche plástico rígido transparente.
-        Medidas: 10,5 cm de largo x 7 cm de ancho x 3 cm alto.
-        Contenido:  8 unidades / 6 elementos.`
+        Estuche plástico semirrígido
+        Contiene 8 unidades en 6 productos
+        Medidas: 10,5 cm x 7 cm x 3 cm de alto`
     },
     {
       name: 'Botiquín cartuchera',
       folder: 'cartuchera',
       images: ['cartuchera-cerrada.jpg', 'cartuchera-abierta.jpg'],
       descrption: `
-        Tela de cordura con cierre.
-        Medidas: 16 cm x 15 cm x5 cm alto.
-        Contenido: 32 unidades / 15 elementos.`
+        Estuche de cordura con cierre
+        Contiene 43 unidades en 16 productos
+        Medidas: 16 cm x 5 cm x 5 cm`
     },
     {
       name: 'Botiquín Home Office',
       folder: 'home-office',
       images: ['home-office-cerrado.jpg', 'home-office-abierto.jpg'],
       descrption: `
-        Caja plástica semitransparente, tapa con bisagra, dos trabas, cuatro divisiones internas.
-        Medidas: 23 cm x 18 cm x 4,5 cm de alto.
-        Contenido: 18 unidades / 11 elementos.`
+        Estuche plástico semitransparente, tapa rebatible con trabas
+        Contiene 24 unidades en 10 productos
+        Medidas: 13,5 cm x 11 cm x 4,7 cm`
     },
     {
       name: 'Botiquín Home Office mediano',
@@ -310,13 +309,13 @@ if (gallery) {
         4 bolsillos tipo red
         2 bolsillos laterales
         Medida: 62 cm x 30 cm x 24 cm de alto`
-    },
+    }
   ]
 
   let productElements = []
 
   const generateProducts = () => {
-    products.forEach(product => {
+    products.forEach((product) => {
       let images
       if (product.images > 1) {
         images = `
@@ -329,8 +328,7 @@ if (gallery) {
         `
       }
 
-      let template =
-        `
+      let template = `
         <article class="product" id="${product.folder}">
           <div class="images">
             <img src="assets/${product.images[0]}" alt="${product.images[0].replaceAll('-', ' ')}">
@@ -353,8 +351,7 @@ if (gallery) {
 
   generateProducts()
 
-
-  gallery.addEventListener('click', event => {
+  gallery.addEventListener('click', (event) => {
     const target = event.target
     if (target.tagName === 'BUTTON') {
       const content = target.nextElementSibling
