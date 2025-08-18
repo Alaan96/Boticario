@@ -50,6 +50,12 @@ img {
   flex: 1 0 100%;
 }
 
+#logo {
+  width: 6rem;
+  object-fit: contain;
+  flex: none;
+}
+
 nav {
   width: 100%;
   display: none;
