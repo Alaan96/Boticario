@@ -105,7 +105,9 @@ import './assets/kit-reposicion-mediano/kit-reposicion-mediano-abierto.jpg'
 import './assets/bolso-emergencia/bolso-emergencia-cerrado.jpg'
 import './assets/bolso-emergencia/bolso-emergencia-abierto.jpg'
 
-// import './styles/main.scss'
+// Styles
+import './styles/main.scss'
 
+// Scripts
 import './scripts/main.js'
 import './scripts/products.js'
