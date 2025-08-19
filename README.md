@@ -15,3 +15,11 @@ Va a levantar en localhost:8080
 ```bash
 npm run dev
 ```
+
+## Build a producción
+
+En la carpeta /dist estará todo el contenido minificado
+
+```bash
+npm run build
+```
