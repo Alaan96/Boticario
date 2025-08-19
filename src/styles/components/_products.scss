@@ -56,29 +56,6 @@ article.product {
       color: var(--secondary);
     }
     & p.description {
-      margin-bottom: 1rem;
-      font-size: 1rem;
-      white-space: pre-line;
-    }
-    & button[data-action="toggle-content"] {
-      padding: 0;
-      text-align: left;
-      display: flex;
-      align-items: center;
-      gap: 0 .5rem;
-      font-size: .75rem;
-      font-family: $Roboto;
-      font-weight: 700;
-      text-transform: uppercase;
-      color: var(--accent-dark);
-      background: transparent;
-      border: none;
-      cursor: pointer;
-      & svg path {
-        stroke: var(--accent-dark);
-      }
-    }
-    & p.content {
       font-size: 1rem;
       white-space: pre-line;
     }

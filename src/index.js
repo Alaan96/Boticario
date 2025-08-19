@@ -8,27 +8,27 @@ import './assets/texture.png'
 import './assets/mini/mini-cerrado.jpg'
 import './assets/mini/mini-abierto.jpg'
 
-import './assets/econo/econo-cerrado.jpg'
-import './assets/econo/econo-abierto.jpg'
-
-import './assets/home-office/home-office-cerrado.jpg'
-import './assets/home-office/home-office-abierto.jpg'
-
-import './assets/home-office-mediano/home-office-mediano-cerrado.jpg'
-import './assets/home-office-mediano/home-office-mediano-abierto.jpg'
+import './assets/cartuchera/cartuchera-cerrada.jpg'
+import './assets/cartuchera/cartuchera-abierta.jpg'
 
 import './assets/home-office-chico/home-office-chico-cerrado.jpg'
 import './assets/home-office-chico/home-office-chico-abierto.jpg'
 
-import './assets/cartuchera/cartuchera-cerrada.jpg'
-import './assets/cartuchera/cartuchera-abierta.jpg'
+import './assets/home-office-mediano/home-office-mediano-cerrado.jpg'
+import './assets/home-office-mediano/home-office-mediano-abierto.jpg'
+
+import './assets/home-office-grande/home-office-grande-cerrado.jpg'
+import './assets/home-office-grande/home-office-grande-abierto.jpg'
+
+import './assets/nautico/nautico-cerrado.jpg'
+import './assets/nautico/nautico-abierto.jpg'
+
+import './assets/econo/econo-cerrado.jpg'
+import './assets/econo/econo-abierto.jpg'
 
 import './assets/kit-preventivo/kit-preventivo.jpg'
 
 import './assets/zipper/zipper.jpg'
-
-import './assets/nautico/nautico-cerrado.jpg'
-import './assets/nautico/nautico-abierto.jpg'
 
 import './assets/botiquin1/botiquin1-cerrado.jpg'
 import './assets/botiquin1/botiquin1-abierto.jpg'
@@ -93,19 +93,27 @@ import './assets/botiquin20/botiquin20-abierto.jpg'
 import './assets/botiquin22/botiquin22-cerrado.jpg'
 import './assets/botiquin22/botiquin22-abierto.jpg'
 
+import './assets/botiquin23/botiquin23-cerrado.jpg'
+import './assets/botiquin23/botiquin23-abierto.jpg'
+
+import './assets/botiquin26/botiquin26-cerrado.jpg'
+import './assets/botiquin26/botiquin26-abierto.jpg'
+
 import './assets/botiquin27/botiquin27-cerrado.jpg'
 import './assets/botiquin27/botiquin27-abierto.jpg'
 
-import './assets/kit-reposicion-chico/kit-reposicion-chico-cerrado.jpg'
-import './assets/kit-reposicion-chico/kit-reposicion-chico-abierto.jpg'
+import './assets/kit-reposicion-chico/kit-reposicion-chico.jpg'
 
-import './assets/kit-reposicion-mediano/kit-reposicion-mediano-cerrado.jpg'
-import './assets/kit-reposicion-mediano/kit-reposicion-mediano-abierto.jpg'
+import './assets/kit-reposicion-mediano/kit-reposicion-mediano.jpg'
+
+import './assets/kit-reposicion-grande/kit-reposicion-grande.jpg'
 
 import './assets/bolso-emergencia/bolso-emergencia-cerrado.jpg'
 import './assets/bolso-emergencia/bolso-emergencia-abierto.jpg'
 
-// import './styles/main.scss'
+// Styles
+import './styles/main.scss'
 
+// Scripts
 import './scripts/main.js'
 import './scripts/products.js'
