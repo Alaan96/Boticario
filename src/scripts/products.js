@@ -340,22 +340,11 @@ if (gallery) {
 
   const generateProducts = () => {
     products.forEach((product) => {
-      let images
-      if (product.images > 1) {
-        images = `
-          <img src="assets/${product.images[0]}" alt="${product.images[0].replaceAll('-', ' ')}">
-          <img src="assets/${product.images[1]}" alt="${product.images[1].replaceAll('-', ' ')}">
-        `
-      } else {
-        images = `
-          <img src="assets/${product.images[0]}" alt="${product.images[0].replaceAll('-', ' ')}">
-        `
-      }
-
       let template = `
         <article class="product" id="${product.folder}">
           <div class="images">
-            ${images}
+            <img src="assets/${product.images[0]}" alt="${product.images[0].replaceAll('-', ' ')}">
+            ${product.images[1] ? `<img src="assets/${product.images[1]}" alt="${product.images[1].replaceAll('-', ' ')}">` : ''}
           </div>
           <div class="data">
             <h2>${product.name}</h2>

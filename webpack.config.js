@@ -10,7 +10,7 @@ module.exports = {
   entry: './src/index.js',
   output: {
     path: path.resolve(__dirname, 'dist'),
-    filename: isProd ? 'js/[name].[contenthash].js' : '[name].js'
+    filename: '[name].js'
   },
   module: {
     rules: [
@@ -38,7 +38,7 @@ module.exports = {
     new HTMLWebpackPlugin({ filename: 'nosotros.html', template: './src/nosotros.html' }),
     new HTMLWebpackPlugin({ filename: 'productos.html', template: './src/productos.html' }),
     new HTMLWebpackPlugin({ filename: 'contacto.html', template: './src/contacto.html' }),
-    ...(isProd ? [new MiniCssExtractPlugin({ filename: 'css/[name].[contenthash].css' })] : [])
+    ...(isProd ? [new MiniCssExtractPlugin({ filename: '[name].css' })] : [])
   ],
   optimization: isProd
     ? {
