@@ -26,9 +26,9 @@ import './assets/nautico/nautico-abierto.jpg'
 import './assets/econo/econo-cerrado.jpg'
 import './assets/econo/econo-abierto.jpg'
 
-import './assets/kit-preventivo/kit-preventivo.jpg'
+// import './assets/kit-preventivo/kit-preventivo.jpg'
 
-import './assets/zipper/zipper.jpg'
+// import './assets/zipper/zipper.jpg'
 
 import './assets/botiquin1/botiquin1-cerrado.jpg'
 import './assets/botiquin1/botiquin1-abierto.jpg'
@@ -60,8 +60,8 @@ import './assets/botiquin9/botiquin9-abierto.jpg'
 import './assets/botiquin10/botiquin10-cerrado.jpg'
 import './assets/botiquin10/botiquin10-abierto.jpg'
 
-import './assets/botiquin11/botiquin11-cerrado.jpg'
-import './assets/botiquin11/botiquin11-abierto.jpg'
+// import './assets/botiquin11/botiquin11-cerrado.jpg'
+// import './assets/botiquin11/botiquin11-abierto.jpg'
 
 import './assets/botiquin12/botiquin12-cerrado.jpg'
 import './assets/botiquin12/botiquin12-abierto.jpg'
@@ -75,14 +75,14 @@ import './assets/botiquin14/botiquin14-abierto.jpg'
 import './assets/botiquin15/botiquin15-cerrado.jpg'
 import './assets/botiquin15/botiquin15-abierto.jpg'
 
-import './assets/botiquin16/botiquin16-cerrado.jpg'
-import './assets/botiquin16/botiquin16-abierto.jpg'
+// import './assets/botiquin16/botiquin16-cerrado.jpg'
+// import './assets/botiquin16/botiquin16-abierto.jpg'
 
 import './assets/botiquin17/botiquin17-cerrado.jpg'
 import './assets/botiquin17/botiquin17-abierto.jpg'
 
-import './assets/botiquin18/botiquin18-cerrado.jpg'
-import './assets/botiquin18/botiquin18-abierto.jpg'
+// import './assets/botiquin18/botiquin18-cerrado.jpg'
+// import './assets/botiquin18/botiquin18-abierto.jpg'
 
 import './assets/botiquin19/botiquin19-cerrado.jpg'
 import './assets/botiquin19/botiquin19-abierto.jpg'
@@ -108,8 +108,8 @@ import './assets/kit-reposicion-mediano/kit-reposicion-mediano.jpg'
 
 import './assets/kit-reposicion-grande/kit-reposicion-grande.jpg'
 
-import './assets/bolso-emergencia/bolso-emergencia-cerrado.jpg'
-import './assets/bolso-emergencia/bolso-emergencia-abierto.jpg'
+// import './assets/bolso-emergencia/bolso-emergencia-cerrado.jpg'
+// import './assets/bolso-emergencia/bolso-emergencia-abierto.jpg'
 
 // Styles
 import './styles/main.scss'

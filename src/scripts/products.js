@@ -47,15 +47,15 @@ if (gallery) {
         Contiene 27 unidades en 11 productos
         Medidas: 23 cm x 18 cm x 4,5 cm alto`
     },
-    {
-      name: 'Kit higiene y prevención',
-      folder: 'kit-preventivo',
-      images: ['kit-preventivo.jpg'],
-      descrption: `
-        Bolsita hermética con cierre zipper.
-        Medidas:  19 cm de largo x 12 cm de ancho x 2 cm alto.
-        Contenido: 12 unidades / 5 elementos.`
-    },
+    // {
+    //   name: 'Kit higiene y prevención',
+    //   folder: 'kit-preventivo',
+    //   images: ['kit-preventivo.jpg'],
+    //   descrption: `
+    //     Bolsita hermética con cierre zipper.
+    //     Medidas:  19 cm de largo x 12 cm de ancho x 2 cm alto.
+    //     Contenido: 12 unidades / 5 elementos.`
+    // },
     {
       name: 'Botiquín Náutico',
       folder: 'nautico',
@@ -65,15 +65,15 @@ if (gallery) {
         Contiene 24 unidades en 9 productos
         Medidas: 18 cm de largo x 12 cm de ancho x 4,3 cm`
     },
-    {
-      name: 'Botiquín Zipper',
-      folder: 'zipper',
-      images: ['zipper.jpg'],
-      descrption: `
-        Bolsita hermética con cierre zipper.
-        Medidas: 19 cm de largo x 12 cm de ancho.
-        Contenido: 13 unidades / 8 elementos.`
-    },
+    // {
+    //   name: 'Botiquín Zipper',
+    //   folder: 'zipper',
+    //   images: ['zipper.jpg'],
+    //   descrption: `
+    //     Bolsita hermética con cierre zipper.
+    //     Medidas: 19 cm de largo x 12 cm de ancho.
+    //     Contenido: 13 unidades / 8 elementos.`
+    // },
     {
       name: 'Botiquín Econo',
       folder: 'econo',
@@ -173,15 +173,15 @@ if (gallery) {
         Contiene 86 unidades en 21 productos
         Medidas: 43 cm x 22 cm x 21 cm de alto`
     },
-    {
-      name: 'Botiquín Número 11',
-      folder: 'botiquin11',
-      images: ['botiquin11-cerrado.jpg', 'botiquin11-abierto.jpg'],
-      descrption: `
-        Gabinete de PVC blanco, estantes, espejo, cierre portacandado
-        Contenido: 58 unidades / 19 elementos
-        Medidas: 37 cm de alto x 26 cm de ancho x 8 cm de profundidad`
-    },
+    // {
+    //   name: 'Botiquín Número 11',
+    //   folder: 'botiquin11',
+    //   images: ['botiquin11-cerrado.jpg', 'botiquin11-abierto.jpg'],
+    //   descrption: `
+    //     Gabinete de PVC blanco, estantes, espejo, cierre portacandado
+    //     Contenido: 58 unidades / 19 elementos
+    //     Medidas: 37 cm de alto x 26 cm de ancho x 8 cm de profundidad`
+    // },
     {
       name: 'Botiquín Número 12',
       folder: 'botiquin12',
@@ -218,15 +218,15 @@ if (gallery) {
         Contiene 80 unidades en 22 productos
         Medidas: 36 cm x 27 cm x 9,7 cm `
     },
-    {
-      name: 'Botiquín Número 16',
-      folder: 'botiquin16',
-      images: ['botiquin16-cerrado.jpg', 'botiquin16-abierto.jpg'],
-      descrption: `
-        Gabinete plástico alto impacto blanco brillante
-        Contenido: 95 unidades / 22 elementos
-        Medidas: 49 cm de alto x 31 cm de ancho x 10 cm de profundidad`
-    },
+    // {
+    //   name: 'Botiquín Número 16',
+    //   folder: 'botiquin16',
+    //   images: ['botiquin16-cerrado.jpg', 'botiquin16-abierto.jpg'],
+    //   descrption: `
+    //     Gabinete plástico alto impacto blanco brillante
+    //     Contenido: 95 unidades / 22 elementos
+    //     Medidas: 49 cm de alto x 31 cm de ancho x 10 cm de profundidad`
+    // },
     {
       name: 'Botiquín Número 17',
       folder: 'botiquin17',
@@ -236,15 +236,15 @@ if (gallery) {
         Contiene 116 unidades en 24 productos
         Medidas: 50 cm x 30 cm x 11 cm de alto`
     },
-    {
-      name: 'Botiquín Número 18',
-      folder: 'botiquin18',
-      images: ['botiquin18-cerrado.jpg', 'botiquin18-abierto.jpg'],
-      descrption: `
-        Gabinete de acero inoxidable, espejo, estantes, traba con cierre
-        Contenido: 56 unidades / 18 elementos
-        Medidas: 28 cm de alto x 22 cm de ancho x 10 cm de alto`
-    },
+    // {
+    //   name: 'Botiquín Número 18',
+    //   folder: 'botiquin18',
+    //   images: ['botiquin18-cerrado.jpg', 'botiquin18-abierto.jpg'],
+    //   descrption: `
+    //     Gabinete de acero inoxidable, espejo, estantes, traba con cierre
+    //     Contenido: 56 unidades / 18 elementos
+    //     Medidas: 28 cm de alto x 22 cm de ancho x 10 cm de alto`
+    // },
     {
       name: 'Botiquín Número 19',
       folder: 'botiquin19',
@@ -322,18 +322,18 @@ if (gallery) {
       descrption: `
         Caja de cartón
         Contiene 260 unidades en 24 productos`
-    },
-    {
-      name: 'Bolso para emergencia',
-      folder: 'bolso-emergencia',
-      images: ['bolso-emergencia-cerrado.jpg', 'bolso-emergencia-abierto.jpg'],
-      descrption: `
-        2  bolsillos externos
-        11 bolsillos internos
-        4 bolsillos tipo red
-        2 bolsillos laterales
-        Medida: 62 cm x 30 cm x 24 cm de alto`
     }
+    // {
+    //   name: 'Bolso para emergencia',
+    //   folder: 'bolso-emergencia',
+    //   images: ['bolso-emergencia-cerrado.jpg', 'bolso-emergencia-abierto.jpg'],
+    //   descrption: `
+    //     2  bolsillos externos
+    //     11 bolsillos internos
+    //     4 bolsillos tipo red
+    //     2 bolsillos laterales
+    //     Medida: 62 cm x 30 cm x 24 cm de alto`
+    // }
   ]
 
   let productElements = []
@@ -355,8 +355,7 @@ if (gallery) {
       let template = `
         <article class="product" id="${product.folder}">
           <div class="images">
-            <img src="assets/${product.images[0]}" alt="${product.images[0].replaceAll('-', ' ')}">
-            ${product.images[1] ? `<img src="assets/${product.images[1]}" alt="${product.images[1].replaceAll('-', ' ')}">` : ''}
+            ${images}
           </div>
           <div class="data">
             <h2>${product.name}</h2>
