@@ -108,8 +108,8 @@ import './assets/kit-reposicion-mediano/kit-reposicion-mediano.jpg'
 
 import './assets/kit-reposicion-grande/kit-reposicion-grande.jpg'
 
-// import './assets/bolso-emergencia/bolso-emergencia-cerrado.jpg'
-// import './assets/bolso-emergencia/bolso-emergencia-abierto.jpg'
+import './assets/bolso-emergencia/bolso-emergencia-cerrado.jpg'
+import './assets/bolso-emergencia/bolso-emergencia-abierto.jpg'
 
 // Styles
 import './styles/main.scss'
