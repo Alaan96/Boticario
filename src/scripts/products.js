@@ -322,18 +322,18 @@ if (gallery) {
       descrption: `
         Caja de cartón
         Contiene 260 unidades en 24 productos`
+    },
+    {
+      name: 'Bolso para emergencia',
+      folder: 'bolso-emergencia',
+      images: ['bolso-emergencia-cerrado.jpg', 'bolso-emergencia-abierto.jpg'],
+      descrption: `
+        2  bolsillos externos
+        11 bolsillos internos
+        4 bolsillos tipo red
+        2 bolsillos laterales
+        Medida: 62 cm x 30 cm x 24 cm de alto`
     }
-    // {
-    //   name: 'Bolso para emergencia',
-    //   folder: 'bolso-emergencia',
-    //   images: ['bolso-emergencia-cerrado.jpg', 'bolso-emergencia-abierto.jpg'],
-    //   descrption: `
-    //     2  bolsillos externos
-    //     11 bolsillos internos
-    //     4 bolsillos tipo red
-    //     2 bolsillos laterales
-    //     Medida: 62 cm x 30 cm x 24 cm de alto`
-    // }
   ]
 
   let productElements = []
