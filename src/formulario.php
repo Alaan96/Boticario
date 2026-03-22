@@ -37,6 +37,7 @@
     <span>Tel: (011) 4504-2689 / 11 5136 5428</span>
     <span>Whatsapp: 11 2288 1055</span>
     <span>botiquines@elboticario.com.ar</span>
+    <span>botiquines2@gmail.com</span>
   </section>
 
   <?php 
