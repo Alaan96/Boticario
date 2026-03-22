@@ -173,15 +173,15 @@ if (gallery) {
         Contiene 86 unidades en 21 productos
         Medidas: 43 cm x 22 cm x 21 cm de alto`
     },
-    // {
-    //   name: 'Botiquín Número 11',
-    //   folder: 'botiquin11',
-    //   images: ['botiquin11-cerrado.jpg', 'botiquin11-abierto.jpg'],
-    //   descrption: `
-    //     Gabinete de PVC blanco, estantes, espejo, cierre portacandado
-    //     Contenido: 58 unidades / 19 elementos
-    //     Medidas: 37 cm de alto x 26 cm de ancho x 8 cm de profundidad`
-    // },
+    {
+      name: 'Botiquín Número 11',
+      folder: 'botiquin11',
+      images: ['botiquin11-cerrado.jpg', 'botiquin11-abierto.jpg'],
+      descrption: `
+        Gabinete de chapa galvanizado. Manija para transportar, espejo interior, estantes, perforado para amurar. Cerradura porta candado.
+        Contenido: 40 unidades / 18 elementos
+        Medidas: 28 cm de alto x 22 cm de ancho x 10 cm de profundidad`
+    },
     {
       name: 'Botiquín Número 12',
       folder: 'botiquin12',
@@ -218,15 +218,15 @@ if (gallery) {
         Contiene 80 unidades en 22 productos
         Medidas: 36 cm x 27 cm x 9,7 cm `
     },
-    // {
-    //   name: 'Botiquín Número 16',
-    //   folder: 'botiquin16',
-    //   images: ['botiquin16-cerrado.jpg', 'botiquin16-abierto.jpg'],
-    //   descrption: `
-    //     Gabinete plástico alto impacto blanco brillante
-    //     Contenido: 95 unidades / 22 elementos
-    //     Medidas: 49 cm de alto x 31 cm de ancho x 10 cm de profundidad`
-    // },
+    {
+      name: 'Botiquín Número 16',
+      folder: 'botiquin16',
+      images: ['botiquin16-cerrado.jpg', 'botiquin16-abierto.jpg'],
+      descrption: `
+        Gabinete de melamina. 2 estantes espejo interior cerradura con dos llaves incluídas, perforado para amurar
+        Contiene 95 unidades en 22 productos
+        Medidas: 50 cm x 40 cm x 14 cm de alto`
+    },
     {
       name: 'Botiquín Número 17',
       folder: 'botiquin17',
@@ -279,7 +279,7 @@ if (gallery) {
       descrption: `
         Gabinete de chapa pintado con epoxi blanco. Amurable. Manija para transportar. Estantes.  Portacandado
         Contiene 206 unidades en 33 productos
-        Medidas: 50 cm x 28 cm x 24 cm `
+        Medidas: 50 cm x 28 cm x 16 cm `
     },
     {
       name: 'Botiquín Número 26',

@@ -60,8 +60,8 @@ import './assets/botiquin9/botiquin9-abierto.jpg'
 import './assets/botiquin10/botiquin10-cerrado.jpg'
 import './assets/botiquin10/botiquin10-abierto.jpg'
 
-// import './assets/botiquin11/botiquin11-cerrado.jpg'
-// import './assets/botiquin11/botiquin11-abierto.jpg'
+import './assets/botiquin11/botiquin11-cerrado.jpg'
+import './assets/botiquin11/botiquin11-abierto.jpg'
 
 import './assets/botiquin12/botiquin12-cerrado.jpg'
 import './assets/botiquin12/botiquin12-abierto.jpg'
@@ -75,8 +75,8 @@ import './assets/botiquin14/botiquin14-abierto.jpg'
 import './assets/botiquin15/botiquin15-cerrado.jpg'
 import './assets/botiquin15/botiquin15-abierto.jpg'
 
-// import './assets/botiquin16/botiquin16-cerrado.jpg'
-// import './assets/botiquin16/botiquin16-abierto.jpg'
+import './assets/botiquin16/botiquin16-cerrado.jpg'
+import './assets/botiquin16/botiquin16-abierto.jpg'
 
 import './assets/botiquin17/botiquin17-cerrado.jpg'
 import './assets/botiquin17/botiquin17-abierto.jpg'
