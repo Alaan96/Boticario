@@ -116,7 +116,7 @@ if (gallery) {
       images: ['botiquin4-cerrado.jpg', 'botiquin4-abierto.jpg'],
       descrption: `
         Caja plástica blanca. Manija para transportar.
-        Contiene 74 unidades en 15 productos
+        Contiene 29 unidades en 13 productos
         Medidas: 31 cm x 16 cm x 11 cm de alto`
     },
     {
@@ -322,6 +322,24 @@ if (gallery) {
       descrption: `
         Caja de cartón
         Contiene 260 unidades en 24 productos`
+    },
+    {
+      name: 'Mochila emergencia/Rescate estandar',
+      folder: 'bolso-emergencia-rescate-estandar',
+      images: ['bolso-emergencia-estandar-cerrado.jpg', 'bolso-emergencia-estandar-abierto.jpg'],
+      descrption: `
+        Tela cordura, forrada, espumada. Tres neceser y bolsillos
+        Contiene 206 unidades en 29 productos
+        Medidas: 44 cms x 33 cms x 19 cms`
+    },
+    {
+      name: 'Mochila emergencia/Rescate premium',
+      folder: 'bolso-emergencia-rescate-premium',
+      images: ['bolso-emergencia-premium-cerrado.jpg', 'bolso-emergencia-premium-abierto.jpg'],
+      descrption: `
+        Tela cordura, forrada, espumada. Tres neceser y bolsillos
+        Contiene 211 unidades en 38 productos
+        Medidas: 44 cms x 33 cms x 19 cms`
     },
     {
       name: 'Bolso para emergencia',
