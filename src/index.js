@@ -111,6 +111,12 @@ import './assets/kit-reposicion-grande/kit-reposicion-grande.jpg'
 import './assets/bolso-emergencia/bolso-emergencia-cerrado.jpg'
 import './assets/bolso-emergencia/bolso-emergencia-abierto.jpg'
 
+import './assets/bolso-emergencia-rescate-estandar/bolso-emergencia-estandar-cerrado.jpg'
+import './assets/bolso-emergencia-rescate-estandar/bolso-emergencia-estandar-abierto.jpg'
+
+import './assets/bolso-emergencia-rescate-premium/bolso-emergencia-premium-cerrado.jpg'
+import './assets/bolso-emergencia-rescate-premium/bolso-emergencia-premium-abierto.jpg'
+
 // Styles
 import './styles/main.scss'
 

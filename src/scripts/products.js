@@ -324,7 +324,7 @@ if (gallery) {
         Contiene 260 unidades en 24 productos`
     },
     {
-      name: 'Mochila emergencia/Rescate estandar',
+      name: 'Mochila emergencia Rescate estandar',
       folder: 'bolso-emergencia-rescate-estandar',
       images: ['bolso-emergencia-estandar-cerrado.jpg', 'bolso-emergencia-estandar-abierto.jpg'],
       descrption: `
@@ -333,7 +333,7 @@ if (gallery) {
         Medidas: 44 cms x 33 cms x 19 cms`
     },
     {
-      name: 'Mochila emergencia/Rescate premium',
+      name: 'Mochila emergencia Rescate premium',
       folder: 'bolso-emergencia-rescate-premium',
       images: ['bolso-emergencia-premium-cerrado.jpg', 'bolso-emergencia-premium-abierto.jpg'],
       descrption: `
